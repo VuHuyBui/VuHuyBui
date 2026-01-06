@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vubh2015@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-vu-bui/)
 
-![Snake animation](https://raw.githubusercontent.com/VuHuyBui/VuHuyBui/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/VuHuyBui/VuHuyBui/output/snake-dark.svg)
 
 
